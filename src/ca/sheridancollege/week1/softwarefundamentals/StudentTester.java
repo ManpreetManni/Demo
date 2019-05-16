@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class StudentTester {
     public static void main(String[] args)
     {
+        // hello there!.
         //Array of Objects
         Student[] studentList=new Student[3];
         
